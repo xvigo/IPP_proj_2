@@ -28,5 +28,3 @@ Loads XML representation of an IPPcode2022 program, interprets this program and 
         --input=file    file with input for the interpretation itself
         One of these parameters has to be present.
         If file parameter missing, standard input is used instead of it
-
-## ! Details about this project can be found inside assignment. ! 
